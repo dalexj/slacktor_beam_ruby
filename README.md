@@ -7,6 +7,6 @@ To run this:
 
 * `bundle`
 * `cp run.sh.example run.sh`
-* get your slack key
+* get your [slack key](https://api.slack.com/docs/oauth-test-tokens)
 * set it inside `run.sh`
 * `source run.sh`
